@@ -1,0 +1,6 @@
+# WAVE-game
+Developed using JAVA with the help of REALTUTSGML
+The game contains a White particle which the player has to move using W A S D keys to dodge the negative particles.
+The game contains a shop where the player can upgrade anytime.......
+At last, a boss which will keep shooting particles until the players last breath.....
+SCORE!!!!!
